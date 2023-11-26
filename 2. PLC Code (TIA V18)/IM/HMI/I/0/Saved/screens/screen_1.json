@@ -1,0 +1,197 @@
+{
+  "v": 1,
+  "env": 0,
+  "props": {
+    "ElementID": 0,
+    "Type": "HmiScreen",
+    "Name": "Screen_1",
+    "Width": 1000,
+    "Height": 600,
+    "Layers": [
+      {
+        "ElementID": 2,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_0"
+      },
+      {
+        "ElementID": 3,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_1"
+      },
+      {
+        "ElementID": 4,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_2"
+      },
+      {
+        "ElementID": 5,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_3"
+      },
+      {
+        "ElementID": 6,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_4"
+      },
+      {
+        "ElementID": 7,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_5"
+      },
+      {
+        "ElementID": 8,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_6"
+      },
+      {
+        "ElementID": 9,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_7"
+      },
+      {
+        "ElementID": 10,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_8"
+      },
+      {
+        "ElementID": 11,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_9"
+      },
+      {
+        "ElementID": 12,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_10"
+      },
+      {
+        "ElementID": 13,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_11"
+      },
+      {
+        "ElementID": 14,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_12"
+      },
+      {
+        "ElementID": 15,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_13"
+      },
+      {
+        "ElementID": 16,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_14"
+      },
+      {
+        "ElementID": 17,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_15"
+      },
+      {
+        "ElementID": 18,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_16"
+      },
+      {
+        "ElementID": 19,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_17"
+      },
+      {
+        "ElementID": 20,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_18"
+      },
+      {
+        "ElementID": 21,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_19"
+      },
+      {
+        "ElementID": 22,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_20"
+      },
+      {
+        "ElementID": 23,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_21"
+      },
+      {
+        "ElementID": 24,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_22"
+      },
+      {
+        "ElementID": 25,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_23"
+      },
+      {
+        "ElementID": 26,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_24"
+      },
+      {
+        "ElementID": 27,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_25"
+      },
+      {
+        "ElementID": 28,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_26"
+      },
+      {
+        "ElementID": 29,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_27"
+      },
+      {
+        "ElementID": 30,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_28"
+      },
+      {
+        "ElementID": 31,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_29"
+      },
+      {
+        "ElementID": 32,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_30"
+      },
+      {
+        "ElementID": 33,
+        "Type": "HmiLayerPart",
+        "Name": "Layer_31"
+      }
+    ]
+  },
+  "items": [
+    {
+      "props": {
+        "ElementID": 1,
+        "Type": "HmiButton",
+        "Name": "Button_1",
+        "Top": 158,
+        "Left": 277,
+        "Width": 227,
+        "Height": 155,
+        "Text": {
+          "type": "Ref",
+          "system": 0,
+          "object": 2,
+          "element": 1,
+          "subelement": 0
+        },
+        "Layer": 2
+      }
+    }
+  ],
+  "events": [],
+  "scriptmodules": [],
+  "dynamics": []
+}
